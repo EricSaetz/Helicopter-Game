@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "HelicopterGame.data.unityweb",
+"asmCodeUrl": "HelicopterGame.asm.code.unityweb",
+"asmMemoryUrl": "HelicopterGame.asm.memory.unityweb",
+"asmFrameworkUrl": "HelicopterGame.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
